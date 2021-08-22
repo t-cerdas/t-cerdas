@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @t-cerdas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there, I'm T-cerdas 👋
 
-<!---
-t-cerdas/t-cerdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![T-cerdas github stats](https://github-readme-stats.vercel.app/api?username=t-cerdas)](https://github.com/t-cerdas/t-cerdas)
+
+### I'm a Single Fighter Developer!
+- 🔭 I'm a student!
+- 🌱 I started blogging in early 2020.
+- 👯 I want to collaborate with you.
+- 🥅 2022 Goals: My blog can compete with other blogs.
+- ⚡ Fun fact: I love playing games, blogging and more.
+
+### 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
