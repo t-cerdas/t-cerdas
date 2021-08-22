@@ -9,7 +9,3 @@
 - 🥅 2022 Goals: My blog can compete with other blogs.
 - ⚡ Fun fact: I love playing games, blogging and more.
 
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
